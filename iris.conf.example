@@ -3,14 +3,8 @@
 # This is in a format similar to ini files and similar.
 # Lines beginning with # are comments.
 #
-# Note that some changes to this configuration file require re-running
-# compile.py, others require restarting Iris, and some may require both.
+# Note that some changes to this configuration file restarting Iris.
 # Individual blocks are labeled with their requirements.
-#
-# Be warned that some settings are, via inclusion in the frontend, exposed
-# to users. These blocks are labeled.
-
-
 
 # EXECUTION OPTIONS
 # These options set parameters to Iris startup and execution.
